@@ -4,7 +4,8 @@ This is just a simple side project that I am working on in order to further my C
 Starter ideas:
 open world,
 different biomes,
-oceans.
+oceans,
+player model.
 
 Somewehre in the middle:
 items,
